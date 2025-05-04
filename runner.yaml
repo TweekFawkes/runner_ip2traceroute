@@ -1,5 +1,5 @@
 runner:
-  name: IP to Traceroute
+  name: IP to Traceroute UDP
   description: Traces the route to the provided IP address using the system 'traceroute' command.
   version: 0.0.1
 
