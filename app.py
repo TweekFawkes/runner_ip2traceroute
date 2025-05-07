@@ -187,7 +187,7 @@ def main():
                 f"{REMOTE_USER}@{REMOTE_HOST}",
                 REMOTE_PING_PATH, # Use the configured remote ping path
                 "-n", 
-                "-q", "5",
+                # "-q", "5",
                 ip_address
             ]
             if args.verbose:
